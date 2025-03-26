@@ -37,6 +37,7 @@ Aquí tienes enlaces a nuestras redes:
   <a href="https://discord.com/invite/gPdNgfDw">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <hr>
   <!-- Youtube -->
   <a href="https://youtube.com/@revoluciondigital-m7d?si=7luHtOnBc2H0xBUb">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -49,6 +50,7 @@ Aquí tienes enlaces a nuestras redes:
   <a href="https://www.reddit.com/r/Revolucion_Digital/s/Pzf3sdQvzl">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
+
   <!-- X -->
   <a href="https://x.com/Revol2025?t=NR2JgmqQTPzkoTaki6XcpQ&s=09">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">

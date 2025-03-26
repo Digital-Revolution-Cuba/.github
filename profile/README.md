@@ -50,7 +50,7 @@ Aquí tienes enlaces a nuestras redes:
   <a href="https://www.reddit.com/r/Revolucion_Digital/s/Pzf3sdQvzl">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
-
+  <br>
   <!-- X -->
   <a href="https://x.com/Revol2025?t=NR2JgmqQTPzkoTaki6XcpQ&s=09">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">

@@ -15,6 +15,7 @@ Esta comunidad en GitHub está gestionada por colaboradores en el campo de la pr
 
 - 🌐 Programación web
 - 📱 Desarrollo de software
+- 🔐 Ciberseguridad
 - 🤖 Inteligencia artificial
 - 🎮 Desarrollo de videojuegos
 

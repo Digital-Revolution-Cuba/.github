@@ -3,6 +3,10 @@
   <h1>- REVOLUCION Digital -</h1>
 </div>
 
+> _"Lo importante es que tengas fe en la gente, que sean básicamente buenas e inteligentes, y si les das herramientas, harán cosas maravillosas con ellas"._
+>
+> — **Steve Jobs**
+
 ## Acerca de nosotros...
 
 ¿Revolución Digital? Somos una comunidad multidisciplinaria enfocada en el arte, la música y las tecnologías.

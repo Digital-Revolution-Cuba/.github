@@ -29,4 +29,12 @@ Aquí tienes enlaces a nuestras redes:
   <a href="https://chat.whatsapp.com/KnUKS0iM8463oXkeT9OKbt">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/12LAVhVfVbg/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/invite/gPdNgfDw">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>

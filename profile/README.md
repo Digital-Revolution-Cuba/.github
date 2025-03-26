@@ -18,6 +18,11 @@ Esta comunidad en GitHub está gestionada por colaboradores en el campo de la pr
 
 ¿Listo para ser parte de la revolución? ¡Explora nuestros repositorios, contribuye y crece con nosotros!
 
-<a href="https://chat.whatsapp.com/KnUKS0iM8463oXkeT9OKbt">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+Aquí tienes enlaces a nuestras redes:
+
+<div align="center">
+  <!-- Whatsapp -->
+  <a href="https://chat.whatsapp.com/KnUKS0iM8463oXkeT9OKbt">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</div>

@@ -37,4 +37,32 @@ Aquí tienes enlaces a nuestras redes:
   <a href="https://discord.com/invite/gPdNgfDw">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <!-- Youtube -->
+  <a href="https://youtube.com/@revoluciondigital-m7d?si=7luHtOnBc2H0xBUb">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <!-- Intagram -->
+  <a href="https://www.instagram.com/revoluciondigital2025?igsh=bHFjMGp4MmdkdGQx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/r/Revolucion_Digital/s/Pzf3sdQvzl">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>
+  <!-- X -->
+  <a href="https://x.com/Revol2025?t=NR2JgmqQTPzkoTaki6XcpQ&s=09">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <!-- Threads -->
+  <a href="https://www.threads.net/@revoluciondigital2025">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
+  </a>
+  <!-- Whattpad -->
+  <a href="https://www.wattpad.com/user/Revolucion_Digital?utm_source=android&utm_medium=link&utm_campaign=invitefriends">
+    <img src="https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white">
+  </a>
+  <!-- Pinterest -->
+  <a href="https://pin.it/4KL7xmEyF">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+  </a>
 </div>
